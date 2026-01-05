@@ -4,4 +4,4 @@ Application to help remembering kanji.
 
 ## Screenshots
 
-![Screenshot](capture-ecran.png)
+![Screenshot](capture_ecran.png)
