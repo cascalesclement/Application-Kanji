@@ -1,6 +1,6 @@
 ## README
 
-Application to help remembering kanji.
+Application to help remembering kanji. Available in french and in english.
 
 ## Screenshots
 
