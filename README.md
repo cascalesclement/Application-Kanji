@@ -4,7 +4,7 @@ This project is an application designed to help remembering kanji. The list of k
 
 - 2 modes : kanji to translation and translation to kanji.
 - Possibility to choose a chapter or a range of chapters.
-- Possibility to pick a certain number of kanji in the list of selectd chapters or everything.
+- Possibility to pick a certain number of kanji in the list of selected chapters or everything.
 - Access to the last list of kanji studied. 
 - Access to the dictionary of the book in simple version and full version.
 - Adaptation for JLPT : you can study JLPT kanji for each level (based on the official lists).
